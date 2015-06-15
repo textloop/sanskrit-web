@@ -1,6 +1,52 @@
 <%= content_for :title, 'Legal notice' %>
 
-Legal notice
-============
+# Impressum
 
-FIXME
+## Cologne Sanskrit Lexicon
+
+Edition LAZARUS 2015
+
+Realized under the project scope of: LAZARUS
+
+Hosted at:
+
+<a href="http://www.cceh.uni-koeln.de/">Cologne Center for e-Humanities (CCeH)</a>
+
+In cooperation with:
+
+<a href="http://dch.phil-fak.uni-koeln.de/startseite.html">Data Center for the Humanities (DCH)</a>
+
+Funded by: 
+
+<a href="http://www.wissenschaft.nrw.de/">Ministerium für Innovation, Wissenschaft und Forschung des Landes Nordrhein-Westfalen</a>
+
+### Sources and project staff
+
+The TEI-versions and technical solutions for this website were done by:
+
+- Dr. Gioele Barabucci, CCeH, University of Cologne (Technical realisation, transformations)
+
+- Martina Gödel, CCeH, University of Cologne (TEI model, transformations) 
+
+- Felix Rau, Department of Linguistics – General Linguistics, University of Cologne (Linguistic guidance, TEI model)
+
+- Nils Geißler, CCeH, University of Cologne (Student research assistant)
+
+
+The source XML of the various dictionaries was designed and implemented by:
+
+- Thomas Malten (Cologne University)
+
+- Peter Scharf (Brown University)
+
+- Malcolm D. Hyman (Max-Planck-Institut für Wissenschaftsgeschichte, Berlin)
+
+- Jim Funderburk
+
+Digitisation by 
+- Thomas Malten and assistants in India
+
+Please visit <a href="http://www.sanskrit-lexicon.uni-koeln.de/index_prev.html">project website</a> for further information.
+
+### legal statement
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The XML-Files are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
